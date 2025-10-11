@@ -1,6 +1,6 @@
 # EULA
 
-These Terms of Use constitute a legal agreement between you and the developer regarding your use of this application (Dolog).
+These Terms of Use constitute a legal agreement between you and the developer regarding your use of this application (dolog).
 
 ### 1. Grant of License
 
