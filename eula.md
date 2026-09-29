@@ -1,43 +1,54 @@
-# EULA
+---
+layout: page
+title: 使用条款
+description: 执行录 iOS 应用的许可、会员订阅和使用条款。
+permalink: /eula/
+---
 
-These Terms of Use constitute a legal agreement between you and the developer regarding your use of this application (dolog).
+<p class="updated">更新日期：2026 年 9 月 29 日</p>
 
-### 1. Grant of License
+欢迎使用 iOS 应用「执行录」（以下简称“本应用”）。下载、安装或使用本应用，即表示你已阅读并同意本条款。如你不同意，请停止使用并删除本应用。
 
-The developer grants the user a non-exclusive, non-transferable license to use the application in accordance with this agreement.
+## 1. 使用许可
 
-### 2. Usage Restrictions
+开发者授予你一项个人、有限、非独占、不可转让的许可，供你依照本条款在 Apple 设备上使用本应用。除适用法律允许或 Apple 的许可规则明确允许外，你不得复制、修改、反向工程、反编译、出租、转让或再分发本应用。
 
-The user shall not:
+## 2. 应用功能
 
-- Decompile or attempt to obtain the source code of the application;
-- Transfer, sublicense, or distribute the application;
-- Use the application in violation of any laws.
+本应用提供待办记录、标签整理、计划时间、完成结果标记、提醒和执行情况统计等功能。功能可能随版本更新而调整。执行分是帮助个人观察行动的工具，不构成对个人能力、健康状况或未来结果的专业评估或保证。
 
-### 3. Intellectual Property
+你应对自己录入的内容负责，并以合法、合理的方式使用本应用。请勿利用本应用从事违法活动、干扰服务或侵害他人权益。
 
-Ownership and intellectual property rights of the application belong to the developer.
+## 3. 会员与应用内购买
 
-### 4. Privacy Policy
+本应用可能提供月度会员、年度会员和永久会员。可购买的项目、价格、试用期（如有）、续费周期及具体权益以 App Store 购买页面显示的信息为准。付款由 Apple 处理。
 
-Users must comply with the developer's [Privacy Policy](/dolog/privacy) when using the application.
+月度和年度会员属于自动续期订阅。除非在当前订阅周期结束前按 Apple 提供的方式取消，订阅可能自动续期并按购买页面所示价格扣费。你可以在 Apple 账户的订阅设置中管理或取消订阅。永久会员为一次性购买，不按周期续费。
 
-### 5. Termination
+购买、退款、取消、续费及恢复购买受 Apple 的媒体服务条款和 App Store 规则约束。会员权益通常与用于购买的 Apple 账户关联；如权益未显示，可在应用中尝试恢复购买。
 
-The developer has the right to terminate this agreement if the user violates it, and the user must stop using and delete the application.
+## 4. 隐私
 
-### 6. Disclaimer
+你对个人数据的使用适用本应用的[隐私政策]({{ '/privacy/' | relative_url }})。待办和标签通过 Apple CloudKit 的个人私有数据库同步，通知在设备本地安排；应用内购买由 Apple StoreKit 处理。
 
-The application is provided "as is" without any warranties from the developer.
+## 5. 知识产权
 
-### 7. Limitation of Liability
+本应用及其界面、软件、名称和相关内容的知识产权归开发者或相应权利人所有。本条款不构成向你转让任何知识产权。
 
-The developer is not liable for any indirect damages, and the total liability shall not exceed the fees paid by the user.
+## 6. 服务变更与终止
 
-### 8. Governing Law
+开发者可因维护、升级或其他合理原因调整、暂停或停止部分功能。如你违反本条款或以不当方式使用本应用，开发者可在适用法律允许的范围内限制或终止你对相关功能的使用。
 
-This agreement is governed by the laws of China.
+## 7. 免责声明与责任
 
-### 9. Changes to Terms
+本应用按现状提供。我们会尽力维持功能正常，但不保证应用始终不中断、无错误，或一定满足你的特定目的。请为重要信息保留适当备份，并理解同步可用性受 Apple 服务、网络和设备设置影响。
 
-The developer may modify this agreement at any time.
+在适用法律允许的最大范围内，开发者不对因使用或无法使用本应用造成的间接或附带损失承担责任。任何本条款均不排除适用法律规定不得排除的责任。
+
+## 8. 条款更新与适用法律
+
+本条款可能随应用功能或适用要求变化而更新。新版本公布后继续使用本应用，即表示你接受更新后的条款。条款的解释和争议处理适用中华人民共和国法律，但当地强制性法律另有规定的除外。
+
+## 9. 联系方式
+
+如对本条款有疑问，请发送邮件至 [whenfung@gmail.com](mailto:whenfung@gmail.com)。
