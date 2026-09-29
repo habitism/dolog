@@ -1,7 +1,7 @@
 title: 知行录
 description: 知行录是一款帮助你记录待办、回看行动、了解自己执行状态的 iOS 应用。
-url: "https://habitism.github.io"
-baseurl: "/dolog"
+url: "https://habitism.cn"
+baseurl: ""
 lang: zh-CN
 
 markdown: kramdown
